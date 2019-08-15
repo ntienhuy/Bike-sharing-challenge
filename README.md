@@ -9,6 +9,6 @@ Implementation includes three files:
 
 
 Requirement:
-1. Keras
-2. Tensorflow
+1. Keras 2.2.4
+2. Tensorflow 1.14.0
 3. Sklearn
